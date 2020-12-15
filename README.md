@@ -10,9 +10,9 @@ Générateur d'histoires aléatoires
 - A chaque fois que le bouton Générer une histoire est cliqué, une histoire viens s'ajouter à la suite, il n'y a pas de remplacement de l'histoire précédente.
 - Votre programme sera testé par la personne assise à coté de vous.
 
-Je veux :
+Je veux :
 • Une maquette ( même s’il n’y a pas grand-chose )
 • Un hébergement du code sur Github Pages
 • Des variables nommées en anglais ( y compris pour les tableau ) vous pouvez utiliser Google Translate.
 • Un code propre et bien indenté
-• Du code CSS, vous avez les connaissances pour faire quelque chose de joli !
+• Du code CSS, vous avez les connaissances pour faire quelque chose de joli !
