@@ -12,6 +12,7 @@ let name = [
     "John",
     "Ygritte"
 ];
+
 let object = [
     "un pc",
     "une rose",
@@ -24,6 +25,7 @@ let object = [
     "une lampe torche",
     "un reverbère"
 ];
+
 let temperature = [
     "15°c",
     "20°F",
@@ -32,6 +34,7 @@ let temperature = [
     "451°F",
     "-273.15°c"
 ];
+
 let places = [
     "le lit",
     "la voiture",
@@ -40,6 +43,7 @@ let places = [
     "l'école",
     "le Vatican"
 ];
+
 let verbs=[
     "se proménent",
     "se changent",
@@ -50,6 +54,7 @@ let verbs=[
     "grimpent",
     "jouent"
 ];
+
 let newDiv;
 let input = document.getElementsByTagName("input");
 let result = document.getElementById("result");
